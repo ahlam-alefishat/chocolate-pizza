@@ -1,0 +1,40 @@
+body {
+    background-color: #f5f5f5;
+}
+
+header {
+    padding-bottom: 80px;
+}
+
+header h1 {
+    font-family: 'Yellowtail';
+    font-size: xx-large;
+    float: left;
+}
+
+header img {
+    float: left;
+}
+
+header h1 span {
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.social {
+    float: right;
+    margin: 3px;
+}
+
+.contact {
+    float: right;
+    margin: 2px;
+}
+
+article span {
+    font-size: xx-large;
+}
+
+article img {
+    margin: 0 auto;
+}
